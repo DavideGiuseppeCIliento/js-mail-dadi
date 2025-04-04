@@ -5,12 +5,10 @@ let dadoPlayer1 = 0;
 let dadoComputer = 0;
 let scorePlayer1 = 0;
 let scoreComputer = 0;
-const classification = [];
 
 const rounds = 3;
 
 let i = 0;
-let y = 0;
 
 for (let i = 0; i < rounds; i++) {
   alert("Lancio del dado del GIOCATORE 1");
