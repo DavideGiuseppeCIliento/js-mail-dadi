@@ -35,7 +35,7 @@ for (let i = 0; i < rounds; i++) {
     alert("😐 PAREGGIO");
   }
 
-  console.log("Round: " + i + " " + "---" + " " + "Player 1: " + " " + scorePlayer1 + "     " + "Computer: " + scoreComputer);
+  console.log("Round: " + (i + 1) + " " + "---" + " " + "Player 1: " + " " + scorePlayer1 + "     " + "Computer: " + scoreComputer);
 }
 
 if (scorePlayer1 > scoreComputer) {
