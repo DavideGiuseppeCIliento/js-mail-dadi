@@ -7,7 +7,7 @@ let scorePlayer1 = 0;
 let scoreComputer = 0;
 const classification = [];
 
-const rounds = 5;
+const rounds = 3;
 
 let i = 0;
 let y = 0;
